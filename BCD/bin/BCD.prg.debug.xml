@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="13" pc="268435458" symbol="initialize"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="18" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="30" pc="268435522" symbol="onUpdate"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="31" pc="268435546" symbol="onUpdate"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="32" pc="268435566" symbol="onUpdate"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="43" pc="268435592" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="44" pc="268435602" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="49" pc="268435617" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="50" pc="268435627" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="60" pc="268435642" symbol="setSleepMode"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="65" pc="268435655" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="66" pc="268435672" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="67" pc="268435682" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="68" pc="268435692" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="69" pc="268435702" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="70" pc="268435713" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="72" pc="268435723" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="73" pc="268435736" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="74" pc="268435749" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="75" pc="268435759" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="76" pc="268435769" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="77" pc="268435785" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="78" pc="268435795" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="79" pc="268435805" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="80" pc="268435815" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="81" pc="268435851" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="83" pc="268435871" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="84" pc="268435878" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="85" pc="268435891" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="86" pc="268435901" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="87" pc="268435914" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="88" pc="268435925" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="89" pc="268435935" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="91" pc="268435958" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="94" pc="268435978" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="95" pc="268435985" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="96" pc="268435998" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="97" pc="268436008" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="98" pc="268436021" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="99" pc="268436032" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="100" pc="268436042" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="102" pc="268436065" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="105" pc="268436085" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="106" pc="268436098" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="107" pc="268436111" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="108" pc="268436121" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="109" pc="268436134" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="110" pc="268436145" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="111" pc="268436155" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="113" pc="268436178" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="116" pc="268436198" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="117" pc="268436211" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="118" pc="268436224" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="119" pc="268436234" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="120" pc="268436247" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="121" pc="268436258" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="122" pc="268436268" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="124" pc="268436291" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="127" pc="268436311" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="128" pc="268436324" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="129" pc="268436337" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="130" pc="268436347" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="131" pc="268436360" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="132" pc="268436371" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="133" pc="268436381" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="135" pc="268436404" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="138" pc="268436424" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="139" pc="268436437" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="140" pc="268436450" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="141" pc="268436460" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="142" pc="268436473" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="143" pc="268436484" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="144" pc="268436494" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="146" pc="268436517" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="149" pc="268436537" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="150" pc="268436550" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="151" pc="268436563" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="152" pc="268436573" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="153" pc="268436586" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="154" pc="268436597" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="155" pc="268436607" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="157" pc="268436630" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="161" pc="268436650" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="162" pc="268436663" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="163" pc="268436676" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="164" pc="268436686" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="165" pc="268436699" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="166" pc="268436710" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="167" pc="268436720" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="169" pc="268436743" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="173" pc="268436763" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="174" pc="268436776" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="175" pc="268436789" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="176" pc="268436799" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="177" pc="268436812" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="178" pc="268436823" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="179" pc="268436833" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="181" pc="268436856" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="184" pc="268436876" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="185" pc="268436889" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="186" pc="268436902" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="187" pc="268436912" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="188" pc="268436925" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="189" pc="268436936" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="190" pc="268436946" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="192" pc="268436969" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="195" pc="268436989" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="196" pc="268437002" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="197" pc="268437015" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="198" pc="268437025" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="199" pc="268437038" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="200" pc="268437049" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="201" pc="268437059" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="203" pc="268437082" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="206" pc="268437102" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="207" pc="268437115" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="208" pc="268437128" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="209" pc="268437138" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="210" pc="268437151" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="211" pc="268437162" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="212" pc="268437172" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="214" pc="268437195" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="217" pc="268437215" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="218" pc="268437228" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="219" pc="268437241" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="220" pc="268437251" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="221" pc="268437264" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="222" pc="268437275" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="223" pc="268437285" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="225" pc="268437308" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="229" pc="268437328" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="230" pc="268437341" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="231" pc="268437354" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="232" pc="268437364" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="233" pc="268437377" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="234" pc="268437388" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="235" pc="268437398" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="237" pc="268437421" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="241" pc="268437441" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="242" pc="268437454" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="243" pc="268437467" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="244" pc="268437477" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="245" pc="268437490" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="246" pc="268437501" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="247" pc="268437511" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="249" pc="268437534" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="253" pc="268437554" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="254" pc="268437567" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="255" pc="268437580" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="256" pc="268437590" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="257" pc="268437603" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="258" pc="268437614" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="259" pc="268437624" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="261" pc="268437647" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="264" pc="268437667" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="265" pc="268437680" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="266" pc="268437693" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="267" pc="268437703" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="268" pc="268437716" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="269" pc="268437727" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="270" pc="268437737" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="272" pc="268437760" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="275" pc="268437780" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="276" pc="268437793" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="277" pc="268437806" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="278" pc="268437816" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="279" pc="268437829" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="280" pc="268437840" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="281" pc="268437850" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="283" pc="268437873" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="286" pc="268437893" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="287" pc="268437906" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="288" pc="268437919" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="289" pc="268437929" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="290" pc="268437942" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="291" pc="268437953" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="292" pc="268437963" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="294" pc="268437986" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="297" pc="268438006" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="298" pc="268438019" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="299" pc="268438032" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="300" pc="268438042" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="301" pc="268438055" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="302" pc="268438066" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="303" pc="268438076" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDView.mc" lineNum="305" pc="268438099" symbol="draw"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDApp.mc" lineNum="6" pc="268438123" symbol="initialize"/>
+<entry filename="C:\\Users\\me\\git\\GarminBCD\\BCD\\source\\BCDApp.mc" lineNum="19" pc="268438150" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="19" pc="268438190" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="20" pc="268438215" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="21" pc="268438242" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="23" pc="268438258" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8" object="true" symbol="BCDView"/>
+<entry field="true" id="17" symbol="isSleep"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry field="true" id="14" symbol="AppName"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="16" method="true" symbol="setSleepMode"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="9" object="true" symbol="CustomMoveBar"/>
+<entry id="15" symbol="sleep"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="10" object="true" symbol="BCDApp"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435586" name="view" stackId="2" startPc="268435522"/>
+<entry endPc="268438119" name="width" stackId="6" startPc="268435655"/>
+<entry endPc="268438119" name="second" stackId="5" startPc="268435655"/>
+<entry endPc="268438119" name="minute" stackId="4" startPc="268435655"/>
+<entry endPc="268438119" name="clockTime" stackId="2" startPc="268435655"/>
+<entry endPc="268438119" name="tmpHour" stackId="14" startPc="268435655"/>
+<entry endPc="268438119" name="hour" stackId="3" startPc="268435655"/>
+<entry endPc="268438119" name="tmpsecond" stackId="16" startPc="268435655"/>
+<entry endPc="268438119" name="elementHeight" stackId="11" startPc="268435655"/>
+<entry endPc="268438119" name="tmpminute" stackId="15" startPc="268435655"/>
+<entry endPc="268438119" name="y" stackId="9" startPc="268435655"/>
+<entry endPc="268438119" name="eHeight" stackId="13" startPc="268435655"/>
+<entry endPc="268438119" name="elementWidth" stackId="10" startPc="268435655"/>
+<entry endPc="268438119" name="x" stackId="8" startPc="268435655"/>
+<entry endPc="268438119" name="eWidth" stackId="12" startPc="268435655"/>
+<entry endPc="268438119" name="height" stackId="7" startPc="268435655"/>
+<entry endPc="268438275" name="rez_cmp_local_custom_drawable_drawBar" stackId="2" startPc="268438190"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="BCDView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="BCDView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="BCDView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="BCDView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="BCDView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="BCDView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="BCDView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="setSleepMode" parent="CustomMoveBar">
+<param id="sleepMode"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="CustomMoveBar">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="BCDApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="BCDApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="BCDApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="BCDApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
